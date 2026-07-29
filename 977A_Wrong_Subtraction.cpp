@@ -1,6 +1,6 @@
 /*
 * Problem: Codeforces 977A Wrong Subtraction
-* Time Complexity: O(N)
+* Time Complexity: O(K)
 * Space Complexity: O(1)
 * Approach: Using the algorithm mentioned in the problem
 */
