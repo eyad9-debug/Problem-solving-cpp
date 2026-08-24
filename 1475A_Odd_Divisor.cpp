@@ -6,7 +6,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-// This function checks if the number is a power of 2 or not
+
 bool isPowerOf2(long long n){
     /* First: n>0. This asks: Is n greater than zero? 
       Then: (n & (n-1))==0. This asks: Is n & n-1 equal to zero?
